@@ -10,3 +10,12 @@
 [submodule "aquila-server-client-node"]
 	path = aquila-server-client-node
 	url = https://github.com/makerlabmx/aquila-server-client-node.git
+[submodule "altair-hardware"]
+	path = altair-hardware
+	url = https://github.com/makerlabmx/altair-hardware.git
+[submodule "usb-serial-hardware"]
+	path = usb-serial-hardware
+	url = https://github.com/makerlabmx/usb-serial-hardware.git
+[submodule "altair-arduinoide"]
+	path = altair-arduinoide
+	url = https://github.com/makerlabmx/altair-arduinoide.git
