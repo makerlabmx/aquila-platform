@@ -9,9 +9,9 @@ The Aquila Platform consists in:
 - The Aquila protocol that binds them together
 
 ## Hardware
-- Altair
-- USB-Serial
+- [Altair](https://github.com/makerlabmx/altair-hardware)
+- [USB-Serial](https://github.com/makerlabmx/usb-serial-hardware)
 
 ## Software
-- Altair IDE
-- Aquila Server
+- [Altair IDE](https://github.com/makerlabmx/altair-arduinoide)
+- [Aquila Server](https://github.com/makerlabmx/aquila-server-client-node)
