@@ -1,0 +1,12 @@
+[submodule "altair"]
+	path = altair
+	url = https://github.com/makerlabmx/altair.git
+[submodule "altair-bootloader"]
+	path = altair-bootloader
+	url = https://github.com/makerlabmx/altair-bootloader.git
+[submodule "aquilalib-node"]
+	path = aquilalib-node
+	url = https://github.com/makerlabmx/aquilalib-node.git
+[submodule "aquila-server-client-node"]
+	path = aquila-server-client-node
+	url = https://github.com/makerlabmx/aquila-server-client-node.git
