@@ -4,7 +4,7 @@ Contents/Contenido:
 
 * * *
 
-# English
+### English:
 # Aquila Platform
 
 This repository is an index for the resources and documentation of the platform.
@@ -49,7 +49,7 @@ The Aquila Platform consists in:
 
 * * *
 
-# Spanish
+### Spanish:
 # Plataforma Aquila
 
 Este repositorio es un índice para los recursos y la documentación de la plataforma.
