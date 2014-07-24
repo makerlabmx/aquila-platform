@@ -22,7 +22,7 @@ The Aquila Platform consists in:
 - [USB-Serial](https://github.com/makerlabmx/usb-serial-hardware)
 
 ### Software
-- [Aquila Library for Altair Reference](https://github.com/makerlabmx/aquila-platform/wiki/Aquila-Library-Reference)
+- [Aquila Library for Altair Reference](https://github.com/makerlabmx/aquila-platform/wiki)
 - [Altair for Arduino IDE](https://github.com/makerlabmx/altair-arduinoide)
 - [Aquila Server](https://github.com/makerlabmx/aquila-server-client-node)
 
@@ -67,7 +67,7 @@ La plataforma Aquila consiste en:
 - [USB-Serial](https://github.com/makerlabmx/usb-serial-hardware)
 
 ### Software
-- [Biblioteca Aquila para Altair, Referencia](https://github.com/makerlabmx/aquila-platform/wiki/Aquila-Library-Reference)
+- [Biblioteca Aquila para Altair, Referencia](https://github.com/makerlabmx/aquila-platform/wiki)
 - [Altair para Arduino IDE](https://github.com/makerlabmx/altair-arduinoide)
 - [Aquila Server](https://github.com/makerlabmx/aquila-server-client-node)
 
