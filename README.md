@@ -15,11 +15,14 @@ The Aquila Platform consists in:
 - Hub graphical interface
 - The Aquila protocol that binds them together
 
+## Documentation
+
 ### Hardware
 - [Altair](https://github.com/makerlabmx/altair-hardware)
 - [USB-Serial](https://github.com/makerlabmx/usb-serial-hardware)
 
 ### Software
+- [Aquila Library for Altair Reference](https://github.com/makerlabmx/aquila-platform/wiki/Aquila-Library-Reference)
 - [Altair for Arduino IDE](https://github.com/makerlabmx/altair-arduinoide)
 - [Aquila Server](https://github.com/makerlabmx/aquila-server-client-node)
 
@@ -57,11 +60,14 @@ La plataforma Aquila consiste en:
 - Interfaz gráfica Hub
 - Protocolo Aquila, que interconecta a los Altairs y el Hub
 
+## Documentación
+
 ### Hardware
 - [Altair](https://github.com/makerlabmx/altair-hardware)
 - [USB-Serial](https://github.com/makerlabmx/usb-serial-hardware)
 
 ### Software
+- [Biblioteca Aquila para Altair, Referencia](https://github.com/makerlabmx/aquila-platform/wiki/Aquila-Library-Reference)
 - [Altair para Arduino IDE](https://github.com/makerlabmx/altair-arduinoide)
 - [Aquila Server](https://github.com/makerlabmx/aquila-server-client-node)
 
