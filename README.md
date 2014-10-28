@@ -63,6 +63,6 @@ La plataforma Aquila consiste en:
 ## Primeros pasos
 
 1. Adquiere el Aquila Starter kit [aquila.io](http://www.aquila.io)
-2. Instala el IDE: [Instrucciones](https://github.com/makerlabmx/altair-arduinoide)
+2. Iniciando con Aquila: [Tutorial](http://community.aquila.io/t/basics-getting-started/46)
 3. Revisa los ejemplos incluidos en el IDE (en el menú, ve a Archivo > Ejemplos > Aquila)
 
